@@ -31,13 +31,13 @@ h3 {
 }
 
 #education {
-    padding: 2rem;
+    padding-left: 2rem;
 }
 
 #languages {
-    padding: 5rem;
+    padding-left: 5rem;
 }
 
 #previousJobs {
-  padding: 10rem;
+  padding-left: 10rem;
 }
