@@ -2555,7 +2555,23 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		
 	}
+	.icon2 {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+		top: 10px;
+		right: -10px;
+	}
+	.icon3 {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+		top: 15px;
+		right: -10px;
+	}
+
 
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
@@ -3493,7 +3509,9 @@ input, select, textarea {
 		}
 
 /* Header */
-
+	.proj{
+		margin-left: 45px;
+	}
 	#header {
 		color: #ffffff;
 		-moz-align-items: center;
